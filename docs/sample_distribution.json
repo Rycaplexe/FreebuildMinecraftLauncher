@@ -11,29 +11,29 @@
     "rss": "https://forum.westeroscraft.com/forum/news.2/index.rss",
     "servers": [
         {
-            "id": "WesterosCraft-1.11.2",
-            "name": "WesterosCraft Production Server",
-            "description": "Main WesterosCraft server. Connect to enter the Realm.",
-            "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-prod.png",
+            "id": "FreebuildMinecraft-1.18.1",
+            "name": "Serveur de production FreebuildMinecarft",
+            "description": "Serveur principal FreebuildMinecraft. Connectez-vous pour entrer dans le royaume.",
+            "icon": "https://www.freebuildminecraft.com/storage/img/96x96.png",
             "version": "3.9.4",
-            "address": "mc.westeroscraft.com",
-            "minecraftVersion": "1.11.2",
+            "address": "Play.FreebuildMinecraft.com",
+            "minecraftVersion": "1.18.1",
             "discord": {
                 "shortId": "Production",
-                "largeImageText": "WesterosCraft Production Server",
-                "largeImageKey": "server-prod"
+                "largeImageText": "Serveur de production FreebuildMinecarft",
+                "largeImageKey": "serveur-prod"
             },
             "mainServer": true,
             "autoconnect": true,
             "modules": [
                 {
-                    "id": "net.minecraftforge:forge:1.11.2-13.20.1.2429",
+                    "id": "net.minecraftforge:forge-1.18.1-39.1.0",
                     "name": "Minecraft Forge",
                     "type": "ForgeHosted",
                     "artifact": {
                         "size": 4450992,
                         "MD5": "3fcc9b0104f0261397d3cc897e55a1c5",
-                        "url": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.11.2-13.20.1.2429/forge-1.11.2-13.20.1.2429-universal.jar"
+                        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.18.1-39.1.0/forge-1.18.1-39.1.0-installer.jar"
                     },
                     "subModules": [
                         {

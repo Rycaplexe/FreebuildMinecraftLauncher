@@ -1,5 +1,5 @@
-appId: 'helioslauncher'
-productName: 'Helios Launcher'
+appId: 'FreebuildMinecraftLauncher'
+productName: 'FreebuildMinecraft Launcher'
 artifactName: '${productName}-setup-${version}.${ext}'
 
 copyright: 'Copyright © 2018-2022 Daniel Scalzi'
@@ -40,9 +40,9 @@ mac:
 linux: 
   target: 'AppImage'
   maintainer: 'Daniel Scalzi'
-  vendor: 'Daniel Scalzi'
-  synopsis: 'Modded Minecraft Launcher'
-  description: 'Custom launcher which allows users to join modded servers. All mods, configurations, and updates are handled automatically.'
+  vendor: 'Roi_Crafteur'
+  synopsis: 'Launcher Minecraft Moddée'
+  description: 'Lanceur personnalisé qui permet aux utilisateurs de rejoindre des serveurs modifiés. Tous les mods, configurations et mises à jour sont gérés automatiquement.'
   category: 'Game'
 
 
